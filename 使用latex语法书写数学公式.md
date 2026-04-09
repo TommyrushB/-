@@ -5,4 +5,4 @@
 '$$J(\theta_{0}，\theta_{1})= \frac{1}{2m}\sum_{i=1}^{m}(h_\theta(x^{i})-y^{i})^{2} $$'
 ## 公式展示如下：
 $$J(\theta_{0}，\theta_{1})= \frac{1}{2m}\sum_{i=1}^{m}(h_\theta(x^{i})-y^{i})^{2} $$
-### 具体的latex语法及希腊字母发音文件已上传到images文件夹中需要自取
+### 具体的latex语法及希腊字母发音文件已上传到本库中images文件夹中需要自取
